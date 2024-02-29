@@ -1,0 +1,4 @@
+*.ts linguist-language=TypeScript
+*.ts linguist-language=NodeJs
+*.ts linguist-language=Javascript
+*.ts linguist-language=Express.js
